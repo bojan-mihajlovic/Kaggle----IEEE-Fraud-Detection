@@ -1,5 +1,5 @@
-# Kaggle--IEEE-Fraud-Detection <br />
-Kaggle IEEE Fraud Detection Project -- Silver Medal Solution
+# Kaggle -- IEEE-Fraud-Detection <br />
+Kaggle IEEE Fraud Detection Project - Silver Medal Solution
 
 Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably aren’t thinking about the data science that determined your fate.
 
